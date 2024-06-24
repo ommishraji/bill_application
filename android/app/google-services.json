@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "299112713785",
+    "project_id": "bat-chita",
+    "storage_bucket": "bat-chita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299112713785:android:5d5a25e2d33a8018d747e8",
+        "android_client_info": {
+          "package_name": "bill.application.bill_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLYwFO6n-SlZzCLwuKbmQ6DNMIglW4gKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299112713785:android:dbf1a343a2173ab1d747e8",
+        "android_client_info": {
+          "package_name": "hackscript.com.bat_chita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLYwFO6n-SlZzCLwuKbmQ6DNMIglW4gKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
